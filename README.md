@@ -111,8 +111,8 @@ furnished to do so, subject to the following conditions:
 
 ## Repository Setup & Execution  
 ```bash
-git clone https://github.com/tu_usuario/tu_repo_leafcolor.git
-cd tu_repo_leafcolor
+git clone [https://github.com/tu_usuario/tu_repo_leafcolor.git
+cd tu_repo_leafcolor](https://github.com/MarioIbago/Leaf-Color-Metrics-from-RGB-Scans-ImageJ-Macro-/)
 # Place leaf_color_mean.ijm here
 open Fiji/ImageJ → Plugins → Macros → Install… → select leaf_color_mean.ijm
 # Run with image + mask pair
