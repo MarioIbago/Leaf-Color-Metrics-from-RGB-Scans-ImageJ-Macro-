@@ -1,6 +1,6 @@
 # Leaf Color Analysis Macro (ImageJ)
 
-**Author:** Mario Ibarra Gómez  
+**Author:** Mario Ibarra
 **Last updated:** 2025  
 **License:** MIT (recommended)  
 
